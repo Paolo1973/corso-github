@@ -1,1 +1,1 @@
-riga da paolo in corso git
+riga da Pippo in collaboratore
