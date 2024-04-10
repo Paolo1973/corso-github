@@ -1,2 +1,4 @@
 hello
 nuova linea da dev
+
+Esempio: modifica da master dopo creazione modulo quicktab da branch <nuovo-modulo>
