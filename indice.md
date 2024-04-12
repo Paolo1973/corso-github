@@ -2,4 +2,4 @@
 
 - git stash
 - git tag
-* gitignore
+- gitignore
