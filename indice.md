@@ -1,4 +1,4 @@
 # INDICE
 
-- git stas
+- git stash
 - git tag
