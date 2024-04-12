@@ -1,4 +1,4 @@
 # INDICE
 
-* git stas
-* git tagh
+- git stas
+- git tag
