@@ -1,4 +1,8 @@
 hello
 nuova linea da dev
 
-Esempio: modifica da master dopo creazione modulo quicktab da branch <nuovo-modulo>
+Eisempio: modifica da mas
+ter dopo creazione modulo quicktab da branch <nuovo-modulo>
+p
+modificato dopo stash@{zero}
+
