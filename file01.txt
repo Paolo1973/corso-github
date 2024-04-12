@@ -1,8 +1,7 @@
 hello
 nuova linea da dev
 
-Eisempio: modifica da mas
-ter dopo creazione modulo quicktab da branch <nuovo-modulo>
-p
+Eisempio: modifica da master dopo creazione modulo quicktab da branch <nuovo-modulo>
+
 modificato dopo stash@{zero}
 
